@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "179671924020",
+    "project_id": "nightowl-20b99",
+    "storage_bucket": "nightowl-20b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179671924020:android:e4ba4919875a5cbf17f961",
+        "android_client_info": {
+          "package_name": "com.example.nightowl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179671924020-4nm5jhpu47asfq7p74379s6s7egnsf2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQK6UMdC5lfFork00lBrqV7u_mr_rvBdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179671924020-4nm5jhpu47asfq7p74379s6s7egnsf2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179671924020:android:82f715f341d1076f17f961",
+        "android_client_info": {
+          "package_name": "com.example.nightowl_fix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179671924020-4nm5jhpu47asfq7p74379s6s7egnsf2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQK6UMdC5lfFork00lBrqV7u_mr_rvBdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179671924020-4nm5jhpu47asfq7p74379s6s7egnsf2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
